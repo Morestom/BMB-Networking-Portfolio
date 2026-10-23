@@ -46,7 +46,7 @@ The pages in this repository describe the exercises and their technical scope. *
 
 ## Personal notes
 
-[Personal notes](03-My-Notes/) is reserved for original notes I may choose to add.
+[My networking study notes](03-My-Notes/README.md) catalogs **50 handwritten note sets** organized into seven technical groups, from Cisco IOS fundamentals to network automation.
 
 ---
 

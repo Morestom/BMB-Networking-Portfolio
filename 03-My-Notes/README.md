@@ -2,7 +2,7 @@
 
 During my BMB internship, I compiled **50 sets of handwritten study notes** while working through video-based networking training. They cover foundational concepts, Cisco device configuration, switching, routing, network services, security, wireless technologies, and automation.
 
-The collection is indexed below by subject to make the progression easier to follow. The original annotated PDFs are maintained separately; this public repository currently presents their organization and topics rather than reproducing video screenshots.
+The collection is indexed below by subject to make the progression easier to follow. The collection is primarily indexed by title. Handwritten-only PDFs may also be attached where the content has been reviewed; the remaining video-annotated PDFs are maintained separately.
 
 ## Notes by topic
 

@@ -6,7 +6,7 @@ Console access, Cisco IOS navigation, initial configuration, and device-manageme
 
 | No. | Original note filename |
 | ---: | --- |
-| 01 | `1 Review and connect_260715_161238.pdf` |
+| 01 | [Review and connect (handwritten PDF)](1%20Review%20and%20connect_260715_161238.pdf) |
 | 02 | `2 Methods of managing cisco devices_260715_161232.pdf` |
 | 03 | `3&4 Configuring console connection in windows MAC_260715_163918.pdf` |
 | 04 | `5 Answering post-boot questions_260715_164550.pdf` |
@@ -17,6 +17,6 @@ Console access, Cisco IOS navigation, initial configuration, and device-manageme
 | 09 | `Conf windowsMAClinux_260728_182406.pdf` |
 | 10 | `Part 1&2 CCNA LAB 5&6_260714_213217.pdf` |
 
-These are the filenames from my original handwritten study-note collection. The annotated PDF files are not attached to this public index.
+These are the filenames from my handwritten study-note collection. The first PDF is attached; other note PDFs are cataloged by title and are not included here.
 
 [← All study notes](../README.md)

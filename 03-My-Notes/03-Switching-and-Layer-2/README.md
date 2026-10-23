@@ -6,7 +6,7 @@ Switch operation, interfaces, VLANs, trunks, neighbor discovery, STP, PoE, and E
 
 | No. | Original note filename |
 | ---: | --- |
-| 01 | `Switch function_260728_200637.pdf` |
+| 01 | [Switch function — handwritten PDF](Switch%20function_260728_200637.pdf) |
 | 02 | `Diagnose interface status_260728_220032.pdf` |
 | 03 | `PoE_260728_231740.pdf` |
 | 04 | `CDP and LLDP_260804_190240.pdf` |
@@ -15,6 +15,6 @@ Switch operation, interfaces, VLANs, trunks, neighbor discovery, STP, PoE, and E
 | 07 | `Trunk_260804_103948.pdf` |
 | 08 | `Etherchannel_260810_100213.pdf` |
 
-These are the filenames from my original handwritten study-note collection. The annotated PDF files are not attached to this public index.
+The Switch Function handwritten PDF is attached above. The other notes are listed by their original filenames and are not attached to this public index.
 
 [← All study notes](../README.md)

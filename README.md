@@ -44,10 +44,6 @@ The pages in this repository describe the exercises and their technical scope. *
 
 **Research:** PKI and AAA; VPN technology; SIEM/SOAR; MFA; vulnerability management; network security zones; NGFW architecture.
 
-## Personal notes
-
-[My networking study notes](03-My-Notes/README.md) catalogs **50 handwritten note sets** organized into seven technical groups, from Cisco IOS fundamentals to network automation.
-
 ---
 
 *All practical labs described here were simulated educational exercises. The research topics are documented learning activities rather than claims of production system implementation.*
